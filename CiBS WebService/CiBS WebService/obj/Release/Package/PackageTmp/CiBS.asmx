@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="CiBS.asmx.vb" Class="CiBS_WebService.CiBS_WebService" %>

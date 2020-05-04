@@ -1,0 +1,10 @@
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\bin\Debug\GSS-EVOLIS.exe
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\bin\Debug\GSS-EVOLIS.pdb
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\bin\Debug\GSS-EVOLIS.xml
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\obj\Debug\GSS_EVOLIS.Form1.resources
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\obj\Debug\GSS_EVOLIS.Resources.resources
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\obj\Debug\GSS-EVOLIS.vbproj.GenerateResource.Cache
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\obj\Debug\GSS-EVOLIS.exe
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\obj\Debug\GSS-EVOLIS.xml
+D:\My Projects\GSS Applications\GSS-EVOLIS\GSS-EVOLIS\obj\Debug\GSS-EVOLIS.pdb

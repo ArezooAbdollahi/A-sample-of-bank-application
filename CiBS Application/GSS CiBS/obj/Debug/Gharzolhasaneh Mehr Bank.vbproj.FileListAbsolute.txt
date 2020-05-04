@@ -1,0 +1,37 @@
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\Mehr Bank CIBS.exe.config
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\Mehr Bank CIBS.exe
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\Mehr Bank CIBS.pdb
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\Mehr Bank CIBS.xml
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.CardPrint.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.ChangePassword.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.CiBS_Parent.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.LogIn.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.Resources.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.PrintSetting.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.UserManagement.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.Welcome.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\Mehr Bank CIBS.exe
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\Mehr Bank CIBS.xml
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\Mehr Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\Mehr Bank CIBS.exe.config
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\Mehr Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\Mehr Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\Mehr Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\Mehr Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\Mehr Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\Mehr Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\bin\Debug\PersianToolS.dll
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\MehrBankCIBS.Welcome.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank\obj\Debug\GenerateResource-ResGen.write.1.tlog

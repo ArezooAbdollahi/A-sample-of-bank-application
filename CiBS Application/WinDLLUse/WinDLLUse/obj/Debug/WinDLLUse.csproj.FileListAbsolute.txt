@@ -1,0 +1,19 @@
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.Form1.resources
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.Properties.Resources.resources
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.csproj.GenerateResource.Cache
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\bin\Debug\WinDLLUse.exe
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\bin\Debug\WinDLLUse.pdb
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\bin\Debug\AyandehPCPosDLL.dll
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\bin\Debug\AyandehPCPosDLL.pdb
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.exe
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.pdb
+E:\JAVA C# PHP\C# .Net\AyandehPCPosDLL\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.csprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.exe
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\bin\Debug\WinDLLUse.exe
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\bin\Debug\WinDLLUse.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\bin\Debug\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.csprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.Form1.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.Properties.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS Application\WinDLLUse\WinDLLUse\obj\Debug\WinDLLUse.csproj.GenerateResource.Cache

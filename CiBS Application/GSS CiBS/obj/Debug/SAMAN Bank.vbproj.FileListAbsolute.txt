@@ -1,0 +1,20 @@
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\bin\Debug\SAMAN Bank CIBS.exe.config
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\bin\Debug\SAMAN Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\bin\Debug\SAMAN Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\bin\Debug\SAMAN Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.Welcome.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMAN Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMAN Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMAN Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\bin\Debug\Cryptography.dll
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS Application\SAMAN Bank\obj\Debug\SAMANBankCIBS.Reports.resources

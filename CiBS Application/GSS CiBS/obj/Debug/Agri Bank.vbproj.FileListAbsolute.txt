@@ -1,0 +1,116 @@
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\bin\Debug\Agri Bank CIBS.exe.config
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\Agri Bank CIBS.exe
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\Agri Bank CIBS.xml
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\Agri Bank CIBS.pdb
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\bin\Debug\Agri Bank CIBS.exe.config
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\Agri Bank CIBS.exe
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\Agri Bank CIBS.xml
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\Agri Bank CIBS.pdb
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.About.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.CardPrint.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.ChangePassword.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.CiBS_Parent.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.LogIn.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.UserManagement.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\Agri Bank.vbproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\bin\Debug\Agri Bank CIBS.exe
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\bin\Debug\Agri Bank CIBS.pdb
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\bin\Debug\Agri Bank CIBS.xml
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\bin\Debug\GSSencrypt.pdb
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\bin\Debug\GSSencrypt.xml
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.Resources.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\Agri Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\Agri Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\Agri Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\bin\Debug\Agri Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\bin\Debug\Agri Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\bin\Debug\Agri Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.About.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\Agri Bank.vbproj.GenerateResource.Cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\bin\Debug\PersianToolS.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\obj\Debug\AgriBankCIBS.Welcome.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank\bin\Debug\Agri Bank CIBS.exe.config
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.exe.config
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.exe
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.pdb
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.xml
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.CardPrint.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.ChangePassword.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.CiBS_Parent.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.LogIn.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Resources.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.PrintSetting.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Reports.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.UserManagement.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Welcome.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.exe
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.xml
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.pdb
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.PrintedCards.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.exe.config
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.PrintedCards.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Reports.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Welcome.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\STIC_PBIMAGE.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\STIC_Pebble.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\GSS_TDES.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\GSS_TDES.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Reprint.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\SabteAhvalLibrary.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\STIC_PBIMAGE.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\STIC_Pebble.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.exe.config
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\Cryptography.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.PrintedCards.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Reports.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Reprint.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRIBankCIBS.Welcome.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.exe.manifest
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\bin\Debug\AGRI Bank CIBS.application
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.exe.manifest
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS Application\AGRI Bank\obj\Debug\AGRI Bank CIBS.application

@@ -1,0 +1,93 @@
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\STIC_PBIMAGE.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\STIC_Pebble.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.exe.config
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.exe.manifest
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.application
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.exe
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.xml
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\GSS_TDES.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\SabteAhvalLibrary.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\bin\Debug\GSS_TDES.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.Reports.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.Reprint.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.About.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.exe.manifest
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.application
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.exe
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.xml
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.RequestConsumables.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.AcceptConsumablesRequest.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\STIC_PBIMAGE.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\STIC_Pebble.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.exe.config
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.exe.manifest
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.application
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.exe
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\GSS CiBS.xml
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\bin\Debug\Cryptography.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.ConsumablesStack.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.AcceptConsumablesRequest.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.Reports.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.Reprint.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.RequestConsumables.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.About.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.exe.manifest
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.application
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.exe
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.xml
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSS CiBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS Application\GSS CiBS\obj\Debug\GSSCIBS.InformUnUsableCard.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\TAT BANK CiBS.exe.config
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\STIC_PBIMAGE.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\STIC_Pebble.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\TAT BANK CiBS.exe.manifest
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\TAT BANK CiBS.application
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\TAT BANK CiBS.exe
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\TAT BANK CiBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\TAT BANK CiBS.xml
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\bin\Debug\Cryptography.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.ConsumablesStack.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.InformUnUsableCard.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.PrintSetting.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.AcceptConsumablesRequest.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.Reports.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.Reprint.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.RequestConsumables.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TATBANKCIBS.About.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TAT BANK CiBS.exe.manifest
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TAT BANK CiBS.application
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TAT BANK CiBS.exe
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TAT BANK CiBS.xml
+D:\My Projects\GSS Applications\Card In Branch\TAT bank CiBS\CiBS Application\GSS CiBS\obj\Debug\TAT BANK CiBS.pdb

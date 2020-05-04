@@ -1,0 +1,36 @@
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\SaderatCIBS.About.resources
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\SaderatCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\SaderatCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\SaderatCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\SaderatCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\SaderatCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\DAYBank.vbproj.GenerateResource.Cache
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\bin\Debug\GSSencrypt.dll
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\bin\Debug\GSSencrypt.pdb
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\bin\Debug\GSSencrypt.xml
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\SaderatCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\bin\Debug\DayBank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\bin\Debug\DayBank CIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\bin\Debug\DayBank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\DayBank CIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\DayBank CIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\DAY Bank\DAY Bank CIBS\DAYBank\obj\Debug\DayBank CIBS.pdb
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\bin\Debug\Agri Bank CIBS.exe.config
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\bin\Debug\Agri Bank CIBS.exe
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\bin\Debug\Agri Bank CIBS.pdb
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\bin\Debug\Agri Bank CIBS.xml
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\bin\Debug\GSSencrypt.pdb
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\bin\Debug\GSSencrypt.xml
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\AgriBankCIBS.About.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\AgriBankCIBS.CardPrint.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\AgriBankCIBS.ChangePassword.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\AgriBankCIBS.CiBS_Parent.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\AgriBankCIBS.LogIn.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\AgriBankCIBS.Resources.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\AgriBankCIBS.UserManagement.resources
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\DAYBank.vbproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\Agri Bank CIBS.exe
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\Agri Bank CIBS.xml
+C:\Users\Amir\Desktop\Agri Bank CIBS\DAYBank\obj\Debug\Agri Bank CIBS.pdb

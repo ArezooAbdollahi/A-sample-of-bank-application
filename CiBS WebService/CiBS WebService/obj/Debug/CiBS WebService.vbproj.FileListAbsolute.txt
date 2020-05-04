@@ -1,0 +1,1237 @@
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Amir\Desktop\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\GenerateResource.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\GenerateResource.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\GhazolHasaneh Mehr Bank CIBS\Gharzolhasaneh Mehr Bank CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\SAMAN Bank CIBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+C:\Users\Amir\Desktop\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Keshavarzi Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\GSS CIBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\GSS CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+E:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResGen.write.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResGen.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResGen.write.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResGen.read.1.tlog
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResGen.write.1.tlog
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My_Projects\Card_In_Branch\TAT_BANK_CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\ResGen.read.1.tlog
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\ResGen.write.1.tlog
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+E:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\CardInBranch\TAT BANK\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResGen.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\ResGen.write.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\1Project\CiBS\Ayandeh\Ayandeh Bank\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-2 - 930612\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\1Project\44-CiBS\Ayandeh\Ayandeh Bank -4-1-0-4 - 930616 - Copy (2)\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+C:\MyProjects\Ayandeh Bank -4-1-0-5 - 930618\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\0000Project\44-CiBS\GSS-Ayandeh\Ayandeh Bank -4-1-0-5 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+K:\Project\0-CiBS\Ayandeh\Ayandeh Bank -----------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931204--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205 - -----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931205\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+H:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931213\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+M:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 931226--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+I:\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\MasoumehProjects\Project\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------0\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2 Projects\0-CiBS\Ayandeh\Ayandeh Bank 940414--------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 940601 ---------- -With InsertCardType - With One PC - Rafe Moshkele Jadid - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941014\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941020 ------------------------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941108 ---Net2 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941110 ------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 941202  ---CustomerGhablAzPoz - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119  ------------ - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950119   - درخواستهای جدید 5025 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - درخواستهای جدید 5025 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950322  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 5025 --تغییرارتباط فردا - تغییرات\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 ----\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960120\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960121\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960123\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+E:\GSS\CIBS\Ayandeh Bank\Eid1396 -Ayande960124\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\ResGen.read.1.tlog
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\ResGen.write.1.tlog
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960220 ---\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\2_Projects\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+G:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande960303 -----------\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--\Ayandeh Bank 950401  - 950615 - ----951204-----------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\Project\CiBS\Ayandeh - OK\Eid1396 -Ayande960303 ----960507--960508\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\obj\Debug\ResGen.read.1.tlog
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\obj\Debug\ResGen.write.1.tlog
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\obj\Debug\ResGen.read.1.tlog
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\obj\Debug\ResGen.write.1.tlog
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960508 --960529 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\3 _ Projects 960503\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 960726 ---ActiveDirectory - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\Project\0-CiBS\Ayandeh - OK\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\Projects\Eid1396 -Ayande 961130 ---ActiveDirectory--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\Projects\Ayande 961130 -ActiveDirectory-970209--\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\ayandeh\0 -970327 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970417 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970425\0 -970423 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970426 --- Test2Branches\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970501 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970523 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - 970612  ---------\0 -970610 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 -970613 --- NEW Request\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - 970622 ---------\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\Ayandeh 970626\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\Ayandeh 970701\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\Ayandeh 970701\For IranCardMojadad\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\Ayandeh 970703\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970711\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970711 - Copy\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970713\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970713 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970715 for ActiveWeb\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\Ayandeh 970721 -ActiveWeb-BestReport\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+F:\0 - Project\0-CiBS\Ayandeh - OK\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 970721 -ActiveWeb-BestReport - 970807 - 980409 IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+D:\GSS\0 - Ayandeh 980527-IranCardNew\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.dll
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\bin\PersianToolS.dll
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\bin\AyandehPCPosDLL.pdb
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbprojResolveAssemblyReference.cache
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\obj\Debug\CiBS_WebService.Resources.resources
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.vbproj.GenerateResource.Cache
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.dll
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.xml
+G:\Arezo\CardInBranch-\CiBS WebService\CiBS WebService\obj\Debug\CiBS WebService.pdb

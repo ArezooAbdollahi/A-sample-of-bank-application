@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>G:\|F:\0000 - Ayandeh\Publish 5032\|F:\00000-Ayandeh\AppNewNew\|F:\00000-Ayandeh\AppNew\|D:\00000-Ayandeh\App\</PublishUrlHistory>
+    <InstallUrlHistory>https://cib.net/|http://cib.ab.net/|http://localhost/GSSCiBS/|http://localhost/|http://cibs.ab.net/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.EVOLIS.me</SupportUrlHistory>
+    <UpdateUrlHistory>http://cib.ab.net/|http://localhost/GSSCiBS/|http://cibs.ab.net/|http://cib.tb.net/|http://192.168.2.100/CiBS/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

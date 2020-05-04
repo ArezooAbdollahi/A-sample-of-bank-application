@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://evolis.me/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://evolis.me/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://evolis.me/">
+      <s:element name="GetRepositoryRequestsSelected">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRepositoryRequestsSelectedResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRepositoryRequestsSelectedResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRepositoryRequests">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRepositoryRequestsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRepositoryRequestsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateRepositoryAccepting">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateRepositoryAcceptingResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateRepositoryAcceptingResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateRepositoryReceiving">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateRepositoryReceivingResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateRepositoryReceivingResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteReposotoryRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteReposotoryRequestResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DeleteReposotoryRequestResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteAdminMessage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteAdminMessageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DeleteAdminMessageResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ChangeAdminMessageStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ChangeAdminMessageStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ChangeAdminMessageStatusResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertUnusableCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertUnusableCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertUnusableCardResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindPos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindPosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FindPosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindUsers">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindUsersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FindUsersResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindBranchUsers">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindBranchUsersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FindBranchUsersResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomerInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomerInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCustomerInfoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCardData22">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCardData22Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertCardData22Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCardData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCardDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertCardDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateActiveDirectoryLoginWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateActiveDirectoryLoginWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidateActiveDirectoryLoginWebResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UserChangePassword">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UserChangePasswordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserChangePasswordResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ResetPassword">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ResetPasswordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ResetPasswordResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DeleteUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdatePos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdatePosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdatePosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertPos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertPosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertPosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchPos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchPosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SearchPosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SearchUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ShebaGenerator">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ShebaGeneratorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ShebaGeneratorResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCounter">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetCounterResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCounterResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardDataGift">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardDataGiftResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCardDataGiftResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCardDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStatusLastCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStatusLastCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetStatusLastCardResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPosData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPosDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPosDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardDataIranCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardDataIranCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCardDataIranCardResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReCardDataIranCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReCardDataIranCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReCardDataIranCardResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllErrorMsg">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetAllErrorMsgResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAllErrorMsgResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchError">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchErrorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SearchErrorResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchErrorMsg">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchErrorMsgResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SearchErrorMsgResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetPrintedCardFlag">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetPrintedCardFlagResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SetPrintedCardFlagResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertLog">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertLogResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertLogResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateFailedLogin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateFailedLoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateFailedLoginResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetIsLogedIn">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetIsLogedInResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SetIsLogedInResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetConsumableCards">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetConsumableCardsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetConsumableCardsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardTypes">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardTypesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCardTypesResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckExistBlueCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckExistBlueCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckExistBlueCardResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckOldCardNo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckOldCardNoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckOldCardNoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExistCustomer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExistCustomerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetExistCustomerResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStackStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStackStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetStackStatusResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStackStatusFromBranch">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStackStatusFromBranchResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetStackStatusFromBranchResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetConsumables">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetConsumablesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetConsumablesResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPrintTempalte">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPrintTempalteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPrintTempalteResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardRemain">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardRemainResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCardRemainResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBranchStatckStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBranchStatckStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetBranchStatckStatusResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCardPrintTemplate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCardPrintTemplateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateCardPrintTemplateResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCustomerData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCustomerDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertCustomerDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCardPrintTemplate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCardPrintTemplateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertCardPrintTemplateResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReportDataGiftCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReportDataGiftCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReportDataGiftCardResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReportData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReportDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReportDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUserNameFrWinUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUserNameFrWinUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetUserNameFrWinUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetImportedDataStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetImportedDataStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetImportedDataStatusResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRemainCardData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRemainCardDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRemainCardDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReportDataCounts">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReportDataCountsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReportDataCountsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReportDataCountsBranch">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReportDataCountsBranchResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReportDataCountsBranchResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetgetUnusableCards">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetgetUnusableCardsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetgetUnusableCardsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAdminMessages">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAdminMessagesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAdminMessagesResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetLogData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetLogDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetLogDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBranchRepositoryData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBranchRepositoryDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetBranchRepositoryDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBranchRepositoryStatusByDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBranchRepositoryStatusByDateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetBranchRepositoryStatusByDateResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBranchRepositoryConflictData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBranchRepositoryConflictDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetBranchRepositoryConflictDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetLastPrintedCardData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetLastPrintedCardDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetLastPrintedCardDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertConsumableRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertConsumableRequestResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertConsumableRequestResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertAdminMessage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="param" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertAdminMessageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertAdminMessageResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetRepositoryRequestsSelectedSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRepositoryRequestsSelected" />
+  </wsdl:message>
+  <wsdl:message name="GetRepositoryRequestsSelectedSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRepositoryRequestsSelectedResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetRepositoryRequestsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRepositoryRequests" />
+  </wsdl:message>
+  <wsdl:message name="GetRepositoryRequestsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRepositoryRequestsResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateRepositoryAcceptingSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateRepositoryAccepting" />
+  </wsdl:message>
+  <wsdl:message name="UpdateRepositoryAcceptingSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateRepositoryAcceptingResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateRepositoryReceivingSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateRepositoryReceiving" />
+  </wsdl:message>
+  <wsdl:message name="UpdateRepositoryReceivingSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateRepositoryReceivingResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteReposotoryRequestSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteReposotoryRequest" />
+  </wsdl:message>
+  <wsdl:message name="DeleteReposotoryRequestSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteReposotoryRequestResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteAdminMessageSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteAdminMessage" />
+  </wsdl:message>
+  <wsdl:message name="DeleteAdminMessageSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteAdminMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ChangeAdminMessageStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:ChangeAdminMessageStatus" />
+  </wsdl:message>
+  <wsdl:message name="ChangeAdminMessageStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:ChangeAdminMessageStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertUnusableCardSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertUnusableCard" />
+  </wsdl:message>
+  <wsdl:message name="InsertUnusableCardSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertUnusableCardResponse" />
+  </wsdl:message>
+  <wsdl:message name="FindPosSoapIn">
+    <wsdl:part name="parameters" element="tns:FindPos" />
+  </wsdl:message>
+  <wsdl:message name="FindPosSoapOut">
+    <wsdl:part name="parameters" element="tns:FindPosResponse" />
+  </wsdl:message>
+  <wsdl:message name="FindUsersSoapIn">
+    <wsdl:part name="parameters" element="tns:FindUsers" />
+  </wsdl:message>
+  <wsdl:message name="FindUsersSoapOut">
+    <wsdl:part name="parameters" element="tns:FindUsersResponse" />
+  </wsdl:message>
+  <wsdl:message name="FindBranchUsersSoapIn">
+    <wsdl:part name="parameters" element="tns:FindBranchUsers" />
+  </wsdl:message>
+  <wsdl:message name="FindBranchUsersSoapOut">
+    <wsdl:part name="parameters" element="tns:FindBranchUsersResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCustomerInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCustomerInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertCardData22SoapIn">
+    <wsdl:part name="parameters" element="tns:InsertCardData22" />
+  </wsdl:message>
+  <wsdl:message name="InsertCardData22SoapOut">
+    <wsdl:part name="parameters" element="tns:InsertCardData22Response" />
+  </wsdl:message>
+  <wsdl:message name="InsertCardDataSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertCardData" />
+  </wsdl:message>
+  <wsdl:message name="InsertCardDataSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertCardDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckUserSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckUser" />
+  </wsdl:message>
+  <wsdl:message name="CheckUserSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidateActiveDirectoryLoginWebSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateActiveDirectoryLoginWeb" />
+  </wsdl:message>
+  <wsdl:message name="ValidateActiveDirectoryLoginWebSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateActiveDirectoryLoginWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="UserChangePasswordSoapIn">
+    <wsdl:part name="parameters" element="tns:UserChangePassword" />
+  </wsdl:message>
+  <wsdl:message name="UserChangePasswordSoapOut">
+    <wsdl:part name="parameters" element="tns:UserChangePasswordResponse" />
+  </wsdl:message>
+  <wsdl:message name="ResetPasswordSoapIn">
+    <wsdl:part name="parameters" element="tns:ResetPassword" />
+  </wsdl:message>
+  <wsdl:message name="ResetPasswordSoapOut">
+    <wsdl:part name="parameters" element="tns:ResetPasswordResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteUserSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteUser" />
+  </wsdl:message>
+  <wsdl:message name="DeleteUserSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdatePosSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdatePos" />
+  </wsdl:message>
+  <wsdl:message name="UpdatePosSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdatePosResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateUserSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateUser" />
+  </wsdl:message>
+  <wsdl:message name="UpdateUserSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertPosSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertPos" />
+  </wsdl:message>
+  <wsdl:message name="InsertPosSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertPosResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertUserSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertUser" />
+  </wsdl:message>
+  <wsdl:message name="InsertUserSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="SearchPosSoapIn">
+    <wsdl:part name="parameters" element="tns:SearchPos" />
+  </wsdl:message>
+  <wsdl:message name="SearchPosSoapOut">
+    <wsdl:part name="parameters" element="tns:SearchPosResponse" />
+  </wsdl:message>
+  <wsdl:message name="SearchUserSoapIn">
+    <wsdl:part name="parameters" element="tns:SearchUser" />
+  </wsdl:message>
+  <wsdl:message name="SearchUserSoapOut">
+    <wsdl:part name="parameters" element="tns:SearchUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="ShebaGeneratorSoapIn">
+    <wsdl:part name="parameters" element="tns:ShebaGenerator" />
+  </wsdl:message>
+  <wsdl:message name="ShebaGeneratorSoapOut">
+    <wsdl:part name="parameters" element="tns:ShebaGeneratorResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCounterSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCounter" />
+  </wsdl:message>
+  <wsdl:message name="GetCounterSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCounterResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCardDataGiftSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCardDataGift" />
+  </wsdl:message>
+  <wsdl:message name="GetCardDataGiftSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCardDataGiftResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCardDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCardData" />
+  </wsdl:message>
+  <wsdl:message name="GetCardDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCardDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetStatusLastCardSoapIn">
+    <wsdl:part name="parameters" element="tns:GetStatusLastCard" />
+  </wsdl:message>
+  <wsdl:message name="GetStatusLastCardSoapOut">
+    <wsdl:part name="parameters" element="tns:GetStatusLastCardResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPosDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPosData" />
+  </wsdl:message>
+  <wsdl:message name="GetPosDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPosDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCardDataIranCardSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCardDataIranCard" />
+  </wsdl:message>
+  <wsdl:message name="GetCardDataIranCardSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCardDataIranCardResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetReCardDataIranCardSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReCardDataIranCard" />
+  </wsdl:message>
+  <wsdl:message name="GetReCardDataIranCardSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReCardDataIranCardResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAllErrorMsgSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllErrorMsg" />
+  </wsdl:message>
+  <wsdl:message name="GetAllErrorMsgSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllErrorMsgResponse" />
+  </wsdl:message>
+  <wsdl:message name="SearchErrorSoapIn">
+    <wsdl:part name="parameters" element="tns:SearchError" />
+  </wsdl:message>
+  <wsdl:message name="SearchErrorSoapOut">
+    <wsdl:part name="parameters" element="tns:SearchErrorResponse" />
+  </wsdl:message>
+  <wsdl:message name="SearchErrorMsgSoapIn">
+    <wsdl:part name="parameters" element="tns:SearchErrorMsg" />
+  </wsdl:message>
+  <wsdl:message name="SearchErrorMsgSoapOut">
+    <wsdl:part name="parameters" element="tns:SearchErrorMsgResponse" />
+  </wsdl:message>
+  <wsdl:message name="SetPrintedCardFlagSoapIn">
+    <wsdl:part name="parameters" element="tns:SetPrintedCardFlag" />
+  </wsdl:message>
+  <wsdl:message name="SetPrintedCardFlagSoapOut">
+    <wsdl:part name="parameters" element="tns:SetPrintedCardFlagResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertLogSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertLog" />
+  </wsdl:message>
+  <wsdl:message name="InsertLogSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertLogResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateFailedLoginSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateFailedLogin" />
+  </wsdl:message>
+  <wsdl:message name="UpdateFailedLoginSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateFailedLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="SetIsLogedInSoapIn">
+    <wsdl:part name="parameters" element="tns:SetIsLogedIn" />
+  </wsdl:message>
+  <wsdl:message name="SetIsLogedInSoapOut">
+    <wsdl:part name="parameters" element="tns:SetIsLogedInResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetConsumableCardsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetConsumableCards" />
+  </wsdl:message>
+  <wsdl:message name="GetConsumableCardsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetConsumableCardsResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCardTypesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCardTypes" />
+  </wsdl:message>
+  <wsdl:message name="GetCardTypesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCardTypesResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckExistBlueCardSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckExistBlueCard" />
+  </wsdl:message>
+  <wsdl:message name="CheckExistBlueCardSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckExistBlueCardResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckOldCardNoSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckOldCardNo" />
+  </wsdl:message>
+  <wsdl:message name="CheckOldCardNoSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckOldCardNoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetExistCustomerSoapIn">
+    <wsdl:part name="parameters" element="tns:GetExistCustomer" />
+  </wsdl:message>
+  <wsdl:message name="GetExistCustomerSoapOut">
+    <wsdl:part name="parameters" element="tns:GetExistCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetStackStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:GetStackStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetStackStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:GetStackStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetStackStatusFromBranchSoapIn">
+    <wsdl:part name="parameters" element="tns:GetStackStatusFromBranch" />
+  </wsdl:message>
+  <wsdl:message name="GetStackStatusFromBranchSoapOut">
+    <wsdl:part name="parameters" element="tns:GetStackStatusFromBranchResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetConsumablesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetConsumables" />
+  </wsdl:message>
+  <wsdl:message name="GetConsumablesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetConsumablesResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPrintTempalteSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPrintTempalte" />
+  </wsdl:message>
+  <wsdl:message name="GetPrintTempalteSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPrintTempalteResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCardRemainSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCardRemain" />
+  </wsdl:message>
+  <wsdl:message name="GetCardRemainSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCardRemainResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetBranchStatckStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:GetBranchStatckStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetBranchStatckStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:GetBranchStatckStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCardPrintTemplateSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCardPrintTemplate" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCardPrintTemplateSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCardPrintTemplateResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertCustomerDataSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertCustomerData" />
+  </wsdl:message>
+  <wsdl:message name="InsertCustomerDataSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertCustomerDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertCardPrintTemplateSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertCardPrintTemplate" />
+  </wsdl:message>
+  <wsdl:message name="InsertCardPrintTemplateSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertCardPrintTemplateResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetReportDataGiftCardSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReportDataGiftCard" />
+  </wsdl:message>
+  <wsdl:message name="GetReportDataGiftCardSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReportDataGiftCardResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetReportDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReportData" />
+  </wsdl:message>
+  <wsdl:message name="GetReportDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReportDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetUserNameFrWinUserSoapIn">
+    <wsdl:part name="parameters" element="tns:GetUserNameFrWinUser" />
+  </wsdl:message>
+  <wsdl:message name="GetUserNameFrWinUserSoapOut">
+    <wsdl:part name="parameters" element="tns:GetUserNameFrWinUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetImportedDataStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:GetImportedDataStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetImportedDataStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:GetImportedDataStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetRemainCardDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRemainCardData" />
+  </wsdl:message>
+  <wsdl:message name="GetRemainCardDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRemainCardDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetReportDataCountsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReportDataCounts" />
+  </wsdl:message>
+  <wsdl:message name="GetReportDataCountsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReportDataCountsResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetReportDataCountsBranchSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReportDataCountsBranch" />
+  </wsdl:message>
+  <wsdl:message name="GetReportDataCountsBranchSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReportDataCountsBranchResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetgetUnusableCardsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetgetUnusableCards" />
+  </wsdl:message>
+  <wsdl:message name="GetgetUnusableCardsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetgetUnusableCardsResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAdminMessagesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAdminMessages" />
+  </wsdl:message>
+  <wsdl:message name="GetAdminMessagesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAdminMessagesResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetLogDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetLogData" />
+  </wsdl:message>
+  <wsdl:message name="GetLogDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetLogDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetBranchRepositoryDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetBranchRepositoryData" />
+  </wsdl:message>
+  <wsdl:message name="GetBranchRepositoryDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetBranchRepositoryDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetBranchRepositoryStatusByDateSoapIn">
+    <wsdl:part name="parameters" element="tns:GetBranchRepositoryStatusByDate" />
+  </wsdl:message>
+  <wsdl:message name="GetBranchRepositoryStatusByDateSoapOut">
+    <wsdl:part name="parameters" element="tns:GetBranchRepositoryStatusByDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetBranchRepositoryConflictDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetBranchRepositoryConflictData" />
+  </wsdl:message>
+  <wsdl:message name="GetBranchRepositoryConflictDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetBranchRepositoryConflictDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetLastPrintedCardDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetLastPrintedCardData" />
+  </wsdl:message>
+  <wsdl:message name="GetLastPrintedCardDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetLastPrintedCardDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertConsumableRequestSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertConsumableRequest" />
+  </wsdl:message>
+  <wsdl:message name="InsertConsumableRequestSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertConsumableRequestResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertAdminMessageSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertAdminMessage" />
+  </wsdl:message>
+  <wsdl:message name="InsertAdminMessageSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertAdminMessageResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CiBS_WebServiceSoap">
+    <wsdl:operation name="GetRepositoryRequestsSelected">
+      <wsdl:input message="tns:GetRepositoryRequestsSelectedSoapIn" />
+      <wsdl:output message="tns:GetRepositoryRequestsSelectedSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRepositoryRequests">
+      <wsdl:input message="tns:GetRepositoryRequestsSoapIn" />
+      <wsdl:output message="tns:GetRepositoryRequestsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRepositoryAccepting">
+      <wsdl:input message="tns:UpdateRepositoryAcceptingSoapIn" />
+      <wsdl:output message="tns:UpdateRepositoryAcceptingSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRepositoryReceiving">
+      <wsdl:input message="tns:UpdateRepositoryReceivingSoapIn" />
+      <wsdl:output message="tns:UpdateRepositoryReceivingSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteReposotoryRequest">
+      <wsdl:input message="tns:DeleteReposotoryRequestSoapIn" />
+      <wsdl:output message="tns:DeleteReposotoryRequestSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAdminMessage">
+      <wsdl:input message="tns:DeleteAdminMessageSoapIn" />
+      <wsdl:output message="tns:DeleteAdminMessageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ChangeAdminMessageStatus">
+      <wsdl:input message="tns:ChangeAdminMessageStatusSoapIn" />
+      <wsdl:output message="tns:ChangeAdminMessageStatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertUnusableCard">
+      <wsdl:input message="tns:InsertUnusableCardSoapIn" />
+      <wsdl:output message="tns:InsertUnusableCardSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPos">
+      <wsdl:input message="tns:FindPosSoapIn" />
+      <wsdl:output message="tns:FindPosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FindUsers">
+      <wsdl:input message="tns:FindUsersSoapIn" />
+      <wsdl:output message="tns:FindUsersSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FindBranchUsers">
+      <wsdl:input message="tns:FindBranchUsersSoapIn" />
+      <wsdl:output message="tns:FindBranchUsersSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerInfo">
+      <wsdl:input message="tns:GetCustomerInfoSoapIn" />
+      <wsdl:output message="tns:GetCustomerInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardData22">
+      <wsdl:input message="tns:InsertCardData22SoapIn" />
+      <wsdl:output message="tns:InsertCardData22SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardData">
+      <wsdl:input message="tns:InsertCardDataSoapIn" />
+      <wsdl:output message="tns:InsertCardDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckUser">
+      <wsdl:input message="tns:CheckUserSoapIn" />
+      <wsdl:output message="tns:CheckUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidateActiveDirectoryLoginWeb">
+      <wsdl:input message="tns:ValidateActiveDirectoryLoginWebSoapIn" />
+      <wsdl:output message="tns:ValidateActiveDirectoryLoginWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UserChangePassword">
+      <wsdl:input message="tns:UserChangePasswordSoapIn" />
+      <wsdl:output message="tns:UserChangePasswordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ResetPassword">
+      <wsdl:input message="tns:ResetPasswordSoapIn" />
+      <wsdl:output message="tns:ResetPasswordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUser">
+      <wsdl:input message="tns:DeleteUserSoapIn" />
+      <wsdl:output message="tns:DeleteUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePos">
+      <wsdl:input message="tns:UpdatePosSoapIn" />
+      <wsdl:output message="tns:UpdatePosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateUser">
+      <wsdl:input message="tns:UpdateUserSoapIn" />
+      <wsdl:output message="tns:UpdateUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertPos">
+      <wsdl:input message="tns:InsertPosSoapIn" />
+      <wsdl:output message="tns:InsertPosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertUser">
+      <wsdl:input message="tns:InsertUserSoapIn" />
+      <wsdl:output message="tns:InsertUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchPos">
+      <wsdl:input message="tns:SearchPosSoapIn" />
+      <wsdl:output message="tns:SearchPosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchUser">
+      <wsdl:input message="tns:SearchUserSoapIn" />
+      <wsdl:output message="tns:SearchUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ShebaGenerator">
+      <wsdl:input message="tns:ShebaGeneratorSoapIn" />
+      <wsdl:output message="tns:ShebaGeneratorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCounter">
+      <wsdl:input message="tns:GetCounterSoapIn" />
+      <wsdl:output message="tns:GetCounterSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCardDataGift">
+      <wsdl:input message="tns:GetCardDataGiftSoapIn" />
+      <wsdl:output message="tns:GetCardDataGiftSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCardData">
+      <wsdl:input message="tns:GetCardDataSoapIn" />
+      <wsdl:output message="tns:GetCardDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStatusLastCard">
+      <wsdl:input message="tns:GetStatusLastCardSoapIn" />
+      <wsdl:output message="tns:GetStatusLastCardSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPosData">
+      <wsdl:input message="tns:GetPosDataSoapIn" />
+      <wsdl:output message="tns:GetPosDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCardDataIranCard">
+      <wsdl:input message="tns:GetCardDataIranCardSoapIn" />
+      <wsdl:output message="tns:GetCardDataIranCardSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReCardDataIranCard">
+      <wsdl:input message="tns:GetReCardDataIranCardSoapIn" />
+      <wsdl:output message="tns:GetReCardDataIranCardSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllErrorMsg">
+      <wsdl:input message="tns:GetAllErrorMsgSoapIn" />
+      <wsdl:output message="tns:GetAllErrorMsgSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchError">
+      <wsdl:input message="tns:SearchErrorSoapIn" />
+      <wsdl:output message="tns:SearchErrorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchErrorMsg">
+      <wsdl:input message="tns:SearchErrorMsgSoapIn" />
+      <wsdl:output message="tns:SearchErrorMsgSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SetPrintedCardFlag">
+      <wsdl:input message="tns:SetPrintedCardFlagSoapIn" />
+      <wsdl:output message="tns:SetPrintedCardFlagSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertLog">
+      <wsdl:input message="tns:InsertLogSoapIn" />
+      <wsdl:output message="tns:InsertLogSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateFailedLogin">
+      <wsdl:input message="tns:UpdateFailedLoginSoapIn" />
+      <wsdl:output message="tns:UpdateFailedLoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SetIsLogedIn">
+      <wsdl:input message="tns:SetIsLogedInSoapIn" />
+      <wsdl:output message="tns:SetIsLogedInSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumableCards">
+      <wsdl:input message="tns:GetConsumableCardsSoapIn" />
+      <wsdl:output message="tns:GetConsumableCardsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCardTypes">
+      <wsdl:input message="tns:GetCardTypesSoapIn" />
+      <wsdl:output message="tns:GetCardTypesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistBlueCard">
+      <wsdl:input message="tns:CheckExistBlueCardSoapIn" />
+      <wsdl:output message="tns:CheckExistBlueCardSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckOldCardNo">
+      <wsdl:input message="tns:CheckOldCardNoSoapIn" />
+      <wsdl:output message="tns:CheckOldCardNoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExistCustomer">
+      <wsdl:input message="tns:GetExistCustomerSoapIn" />
+      <wsdl:output message="tns:GetExistCustomerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStackStatus">
+      <wsdl:input message="tns:GetStackStatusSoapIn" />
+      <wsdl:output message="tns:GetStackStatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStackStatusFromBranch">
+      <wsdl:input message="tns:GetStackStatusFromBranchSoapIn" />
+      <wsdl:output message="tns:GetStackStatusFromBranchSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumables">
+      <wsdl:input message="tns:GetConsumablesSoapIn" />
+      <wsdl:output message="tns:GetConsumablesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPrintTempalte">
+      <wsdl:input message="tns:GetPrintTempalteSoapIn" />
+      <wsdl:output message="tns:GetPrintTempalteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCardRemain">
+      <wsdl:input message="tns:GetCardRemainSoapIn" />
+      <wsdl:output message="tns:GetCardRemainSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchStatckStatus">
+      <wsdl:input message="tns:GetBranchStatckStatusSoapIn" />
+      <wsdl:output message="tns:GetBranchStatckStatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCardPrintTemplate">
+      <wsdl:input message="tns:UpdateCardPrintTemplateSoapIn" />
+      <wsdl:output message="tns:UpdateCardPrintTemplateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomerData">
+      <wsdl:input message="tns:InsertCustomerDataSoapIn" />
+      <wsdl:output message="tns:InsertCustomerDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardPrintTemplate">
+      <wsdl:input message="tns:InsertCardPrintTemplateSoapIn" />
+      <wsdl:output message="tns:InsertCardPrintTemplateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataGiftCard">
+      <wsdl:input message="tns:GetReportDataGiftCardSoapIn" />
+      <wsdl:output message="tns:GetReportDataGiftCardSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReportData">
+      <wsdl:input message="tns:GetReportDataSoapIn" />
+      <wsdl:output message="tns:GetReportDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUserNameFrWinUser">
+      <wsdl:input message="tns:GetUserNameFrWinUserSoapIn" />
+      <wsdl:output message="tns:GetUserNameFrWinUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetImportedDataStatus">
+      <wsdl:input message="tns:GetImportedDataStatusSoapIn" />
+      <wsdl:output message="tns:GetImportedDataStatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRemainCardData">
+      <wsdl:input message="tns:GetRemainCardDataSoapIn" />
+      <wsdl:output message="tns:GetRemainCardDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataCounts">
+      <wsdl:input message="tns:GetReportDataCountsSoapIn" />
+      <wsdl:output message="tns:GetReportDataCountsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataCountsBranch">
+      <wsdl:input message="tns:GetReportDataCountsBranchSoapIn" />
+      <wsdl:output message="tns:GetReportDataCountsBranchSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetgetUnusableCards">
+      <wsdl:input message="tns:GetgetUnusableCardsSoapIn" />
+      <wsdl:output message="tns:GetgetUnusableCardsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAdminMessages">
+      <wsdl:input message="tns:GetAdminMessagesSoapIn" />
+      <wsdl:output message="tns:GetAdminMessagesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetLogData">
+      <wsdl:input message="tns:GetLogDataSoapIn" />
+      <wsdl:output message="tns:GetLogDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryData">
+      <wsdl:input message="tns:GetBranchRepositoryDataSoapIn" />
+      <wsdl:output message="tns:GetBranchRepositoryDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryStatusByDate">
+      <wsdl:input message="tns:GetBranchRepositoryStatusByDateSoapIn" />
+      <wsdl:output message="tns:GetBranchRepositoryStatusByDateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryConflictData">
+      <wsdl:input message="tns:GetBranchRepositoryConflictDataSoapIn" />
+      <wsdl:output message="tns:GetBranchRepositoryConflictDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetLastPrintedCardData">
+      <wsdl:input message="tns:GetLastPrintedCardDataSoapIn" />
+      <wsdl:output message="tns:GetLastPrintedCardDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertConsumableRequest">
+      <wsdl:input message="tns:InsertConsumableRequestSoapIn" />
+      <wsdl:output message="tns:InsertConsumableRequestSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertAdminMessage">
+      <wsdl:input message="tns:InsertAdminMessageSoapIn" />
+      <wsdl:output message="tns:InsertAdminMessageSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CiBS_WebServiceSoap" type="tns:CiBS_WebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetRepositoryRequestsSelected">
+      <soap:operation soapAction="http://evolis.me/GetRepositoryRequestsSelected" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRepositoryRequests">
+      <soap:operation soapAction="http://evolis.me/GetRepositoryRequests" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRepositoryAccepting">
+      <soap:operation soapAction="http://evolis.me/UpdateRepositoryAccepting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRepositoryReceiving">
+      <soap:operation soapAction="http://evolis.me/UpdateRepositoryReceiving" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteReposotoryRequest">
+      <soap:operation soapAction="http://evolis.me/DeleteReposotoryRequest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAdminMessage">
+      <soap:operation soapAction="http://evolis.me/DeleteAdminMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChangeAdminMessageStatus">
+      <soap:operation soapAction="http://evolis.me/ChangeAdminMessageStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertUnusableCard">
+      <soap:operation soapAction="http://evolis.me/InsertUnusableCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindPos">
+      <soap:operation soapAction="http://evolis.me/FindPos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindUsers">
+      <soap:operation soapAction="http://evolis.me/FindUsers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindBranchUsers">
+      <soap:operation soapAction="http://evolis.me/FindBranchUsers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerInfo">
+      <soap:operation soapAction="http://evolis.me/GetCustomerInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardData22">
+      <soap:operation soapAction="http://evolis.me/InsertCardData22" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardData">
+      <soap:operation soapAction="http://evolis.me/InsertCardData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckUser">
+      <soap:operation soapAction="http://evolis.me/CheckUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateActiveDirectoryLoginWeb">
+      <soap:operation soapAction="http://evolis.me/ValidateActiveDirectoryLoginWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UserChangePassword">
+      <soap:operation soapAction="http://evolis.me/UserChangePassword" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResetPassword">
+      <soap:operation soapAction="http://evolis.me/ResetPassword" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUser">
+      <soap:operation soapAction="http://evolis.me/DeleteUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePos">
+      <soap:operation soapAction="http://evolis.me/UpdatePos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateUser">
+      <soap:operation soapAction="http://evolis.me/UpdateUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertPos">
+      <soap:operation soapAction="http://evolis.me/InsertPos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertUser">
+      <soap:operation soapAction="http://evolis.me/InsertUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchPos">
+      <soap:operation soapAction="http://evolis.me/SearchPos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchUser">
+      <soap:operation soapAction="http://evolis.me/SearchUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShebaGenerator">
+      <soap:operation soapAction="http://evolis.me/ShebaGenerator" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCounter">
+      <soap:operation soapAction="http://evolis.me/GetCounter" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardDataGift">
+      <soap:operation soapAction="http://evolis.me/GetCardDataGift" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardData">
+      <soap:operation soapAction="http://evolis.me/GetCardData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStatusLastCard">
+      <soap:operation soapAction="http://evolis.me/GetStatusLastCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPosData">
+      <soap:operation soapAction="http://evolis.me/GetPosData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardDataIranCard">
+      <soap:operation soapAction="http://evolis.me/GetCardDataIranCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReCardDataIranCard">
+      <soap:operation soapAction="http://evolis.me/GetReCardDataIranCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllErrorMsg">
+      <soap:operation soapAction="http://evolis.me/GetAllErrorMsg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchError">
+      <soap:operation soapAction="http://evolis.me/SearchError" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchErrorMsg">
+      <soap:operation soapAction="http://evolis.me/SearchErrorMsg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetPrintedCardFlag">
+      <soap:operation soapAction="http://evolis.me/SetPrintedCardFlag" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertLog">
+      <soap:operation soapAction="http://evolis.me/InsertLog" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateFailedLogin">
+      <soap:operation soapAction="http://evolis.me/UpdateFailedLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetIsLogedIn">
+      <soap:operation soapAction="http://evolis.me/SetIsLogedIn" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumableCards">
+      <soap:operation soapAction="http://evolis.me/GetConsumableCards" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardTypes">
+      <soap:operation soapAction="http://evolis.me/GetCardTypes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistBlueCard">
+      <soap:operation soapAction="http://evolis.me/CheckExistBlueCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckOldCardNo">
+      <soap:operation soapAction="http://evolis.me/CheckOldCardNo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExistCustomer">
+      <soap:operation soapAction="http://evolis.me/GetExistCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStackStatus">
+      <soap:operation soapAction="http://evolis.me/GetStackStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStackStatusFromBranch">
+      <soap:operation soapAction="http://evolis.me/GetStackStatusFromBranch" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumables">
+      <soap:operation soapAction="http://evolis.me/GetConsumables" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPrintTempalte">
+      <soap:operation soapAction="http://evolis.me/GetPrintTempalte" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardRemain">
+      <soap:operation soapAction="http://evolis.me/GetCardRemain" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchStatckStatus">
+      <soap:operation soapAction="http://evolis.me/GetBranchStatckStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCardPrintTemplate">
+      <soap:operation soapAction="http://evolis.me/UpdateCardPrintTemplate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomerData">
+      <soap:operation soapAction="http://evolis.me/InsertCustomerData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardPrintTemplate">
+      <soap:operation soapAction="http://evolis.me/InsertCardPrintTemplate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataGiftCard">
+      <soap:operation soapAction="http://evolis.me/GetReportDataGiftCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReportData">
+      <soap:operation soapAction="http://evolis.me/GetReportData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUserNameFrWinUser">
+      <soap:operation soapAction="http://evolis.me/GetUserNameFrWinUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetImportedDataStatus">
+      <soap:operation soapAction="http://evolis.me/GetImportedDataStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRemainCardData">
+      <soap:operation soapAction="http://evolis.me/GetRemainCardData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataCounts">
+      <soap:operation soapAction="http://evolis.me/GetReportDataCounts" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataCountsBranch">
+      <soap:operation soapAction="http://evolis.me/GetReportDataCountsBranch" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetgetUnusableCards">
+      <soap:operation soapAction="http://evolis.me/GetgetUnusableCards" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAdminMessages">
+      <soap:operation soapAction="http://evolis.me/GetAdminMessages" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLogData">
+      <soap:operation soapAction="http://evolis.me/GetLogData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryData">
+      <soap:operation soapAction="http://evolis.me/GetBranchRepositoryData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryStatusByDate">
+      <soap:operation soapAction="http://evolis.me/GetBranchRepositoryStatusByDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryConflictData">
+      <soap:operation soapAction="http://evolis.me/GetBranchRepositoryConflictData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLastPrintedCardData">
+      <soap:operation soapAction="http://evolis.me/GetLastPrintedCardData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertConsumableRequest">
+      <soap:operation soapAction="http://evolis.me/InsertConsumableRequest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAdminMessage">
+      <soap:operation soapAction="http://evolis.me/InsertAdminMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="CiBS_WebServiceSoap12" type="tns:CiBS_WebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetRepositoryRequestsSelected">
+      <soap12:operation soapAction="http://evolis.me/GetRepositoryRequestsSelected" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRepositoryRequests">
+      <soap12:operation soapAction="http://evolis.me/GetRepositoryRequests" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRepositoryAccepting">
+      <soap12:operation soapAction="http://evolis.me/UpdateRepositoryAccepting" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRepositoryReceiving">
+      <soap12:operation soapAction="http://evolis.me/UpdateRepositoryReceiving" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteReposotoryRequest">
+      <soap12:operation soapAction="http://evolis.me/DeleteReposotoryRequest" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAdminMessage">
+      <soap12:operation soapAction="http://evolis.me/DeleteAdminMessage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChangeAdminMessageStatus">
+      <soap12:operation soapAction="http://evolis.me/ChangeAdminMessageStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertUnusableCard">
+      <soap12:operation soapAction="http://evolis.me/InsertUnusableCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindPos">
+      <soap12:operation soapAction="http://evolis.me/FindPos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindUsers">
+      <soap12:operation soapAction="http://evolis.me/FindUsers" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindBranchUsers">
+      <soap12:operation soapAction="http://evolis.me/FindBranchUsers" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerInfo">
+      <soap12:operation soapAction="http://evolis.me/GetCustomerInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardData22">
+      <soap12:operation soapAction="http://evolis.me/InsertCardData22" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardData">
+      <soap12:operation soapAction="http://evolis.me/InsertCardData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckUser">
+      <soap12:operation soapAction="http://evolis.me/CheckUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateActiveDirectoryLoginWeb">
+      <soap12:operation soapAction="http://evolis.me/ValidateActiveDirectoryLoginWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UserChangePassword">
+      <soap12:operation soapAction="http://evolis.me/UserChangePassword" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResetPassword">
+      <soap12:operation soapAction="http://evolis.me/ResetPassword" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUser">
+      <soap12:operation soapAction="http://evolis.me/DeleteUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePos">
+      <soap12:operation soapAction="http://evolis.me/UpdatePos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateUser">
+      <soap12:operation soapAction="http://evolis.me/UpdateUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertPos">
+      <soap12:operation soapAction="http://evolis.me/InsertPos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertUser">
+      <soap12:operation soapAction="http://evolis.me/InsertUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchPos">
+      <soap12:operation soapAction="http://evolis.me/SearchPos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchUser">
+      <soap12:operation soapAction="http://evolis.me/SearchUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShebaGenerator">
+      <soap12:operation soapAction="http://evolis.me/ShebaGenerator" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCounter">
+      <soap12:operation soapAction="http://evolis.me/GetCounter" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardDataGift">
+      <soap12:operation soapAction="http://evolis.me/GetCardDataGift" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardData">
+      <soap12:operation soapAction="http://evolis.me/GetCardData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStatusLastCard">
+      <soap12:operation soapAction="http://evolis.me/GetStatusLastCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPosData">
+      <soap12:operation soapAction="http://evolis.me/GetPosData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardDataIranCard">
+      <soap12:operation soapAction="http://evolis.me/GetCardDataIranCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReCardDataIranCard">
+      <soap12:operation soapAction="http://evolis.me/GetReCardDataIranCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllErrorMsg">
+      <soap12:operation soapAction="http://evolis.me/GetAllErrorMsg" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchError">
+      <soap12:operation soapAction="http://evolis.me/SearchError" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchErrorMsg">
+      <soap12:operation soapAction="http://evolis.me/SearchErrorMsg" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetPrintedCardFlag">
+      <soap12:operation soapAction="http://evolis.me/SetPrintedCardFlag" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertLog">
+      <soap12:operation soapAction="http://evolis.me/InsertLog" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateFailedLogin">
+      <soap12:operation soapAction="http://evolis.me/UpdateFailedLogin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetIsLogedIn">
+      <soap12:operation soapAction="http://evolis.me/SetIsLogedIn" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumableCards">
+      <soap12:operation soapAction="http://evolis.me/GetConsumableCards" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardTypes">
+      <soap12:operation soapAction="http://evolis.me/GetCardTypes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistBlueCard">
+      <soap12:operation soapAction="http://evolis.me/CheckExistBlueCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckOldCardNo">
+      <soap12:operation soapAction="http://evolis.me/CheckOldCardNo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExistCustomer">
+      <soap12:operation soapAction="http://evolis.me/GetExistCustomer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStackStatus">
+      <soap12:operation soapAction="http://evolis.me/GetStackStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStackStatusFromBranch">
+      <soap12:operation soapAction="http://evolis.me/GetStackStatusFromBranch" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumables">
+      <soap12:operation soapAction="http://evolis.me/GetConsumables" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPrintTempalte">
+      <soap12:operation soapAction="http://evolis.me/GetPrintTempalte" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardRemain">
+      <soap12:operation soapAction="http://evolis.me/GetCardRemain" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchStatckStatus">
+      <soap12:operation soapAction="http://evolis.me/GetBranchStatckStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCardPrintTemplate">
+      <soap12:operation soapAction="http://evolis.me/UpdateCardPrintTemplate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomerData">
+      <soap12:operation soapAction="http://evolis.me/InsertCustomerData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCardPrintTemplate">
+      <soap12:operation soapAction="http://evolis.me/InsertCardPrintTemplate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataGiftCard">
+      <soap12:operation soapAction="http://evolis.me/GetReportDataGiftCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReportData">
+      <soap12:operation soapAction="http://evolis.me/GetReportData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUserNameFrWinUser">
+      <soap12:operation soapAction="http://evolis.me/GetUserNameFrWinUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetImportedDataStatus">
+      <soap12:operation soapAction="http://evolis.me/GetImportedDataStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRemainCardData">
+      <soap12:operation soapAction="http://evolis.me/GetRemainCardData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataCounts">
+      <soap12:operation soapAction="http://evolis.me/GetReportDataCounts" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReportDataCountsBranch">
+      <soap12:operation soapAction="http://evolis.me/GetReportDataCountsBranch" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetgetUnusableCards">
+      <soap12:operation soapAction="http://evolis.me/GetgetUnusableCards" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAdminMessages">
+      <soap12:operation soapAction="http://evolis.me/GetAdminMessages" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLogData">
+      <soap12:operation soapAction="http://evolis.me/GetLogData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryData">
+      <soap12:operation soapAction="http://evolis.me/GetBranchRepositoryData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryStatusByDate">
+      <soap12:operation soapAction="http://evolis.me/GetBranchRepositoryStatusByDate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBranchRepositoryConflictData">
+      <soap12:operation soapAction="http://evolis.me/GetBranchRepositoryConflictData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLastPrintedCardData">
+      <soap12:operation soapAction="http://evolis.me/GetLastPrintedCardData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertConsumableRequest">
+      <soap12:operation soapAction="http://evolis.me/InsertConsumableRequest" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAdminMessage">
+      <soap12:operation soapAction="http://evolis.me/InsertAdminMessage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CiBS_WebService">
+    <wsdl:port name="CiBS_WebServiceSoap" binding="tns:CiBS_WebServiceSoap">
+      <soap:address location="http://localhost:48917/CiBS.asmx" />
+    </wsdl:port>
+    <wsdl:port name="CiBS_WebServiceSoap12" binding="tns:CiBS_WebServiceSoap12">
+      <soap12:address location="http://localhost:48917/CiBS.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

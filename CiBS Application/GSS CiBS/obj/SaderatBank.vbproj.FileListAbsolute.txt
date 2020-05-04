@@ -1,0 +1,29 @@
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\obj\Debug\SaderatBank.vbproj.GenerateResource.Cache
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\bin\Debug\SaderatCIBS.exe
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\bin\Debug\SaderatCIBS.pdb
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\bin\Debug\SaderatCIBS.xml
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\obj\Debug\SaderatCIBS.Form1.resources
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\obj\Debug\SaderatCIBS.Resources.resources
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\obj\Debug\SaderatCIBS.exe
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\obj\Debug\SaderatCIBS.xml
+C:\Users\afamir\Desktop\GSS-EVOLIS\SaderatBank\obj\Debug\SaderatCIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\bin\Debug\SaderatCIBS.exe
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\bin\Debug\SaderatCIBS.pdb
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\bin\Debug\SaderatCIBS.xml
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatBank.vbproj.GenerateResource.Cache
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\bin\Debug\GSSencrypt.dll
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\bin\Debug\GSSencrypt.pdb
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\bin\Debug\GSSencrypt.xml
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.CardPrint.resources
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.CiBS_Parent.resources
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.LogIn.resources
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\bin\Debug\SaderatCIBS.exe.config
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.ChangePassword.resources
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.UserManagement.resources
+D:\My Projects\GSS Applications\Card In Branch\Saderat Bank\Saderat CIBS\SaderatBank\obj\Debug\SaderatCIBS.About.resources

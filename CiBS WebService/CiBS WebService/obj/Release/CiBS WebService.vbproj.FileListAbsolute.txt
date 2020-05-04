@@ -1,0 +1,44 @@
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Release\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.vbproj.GenerateResource.Cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Release\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.vbproj.GenerateResource.Cache
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\Agri Bank CIBS\Agri Bank CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\CiBS_WebService.Resources.resources
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.dll
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.xml
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.pdb
+D:\My Projects\GSS Applications\Card In Branch\TAT BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\GenerateResource.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.pdb
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\bin\CiBS WebService.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\bin\Cryptography.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\ResolveAssemblyReference.cache
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\CiBS_WebService.Resources.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\GenerateResource.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\ResGen.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\ResGen.write.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS WebService\CiBS WebService\obj\Release\CiBS WebService.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\00000-Ayandeh\WebService" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Cryptography.dll" publishTime="09/30/2008 12:15:00" />
+    <file relUrl="bin/PersianToolS.dll" publishTime="03/03/2004 13:34:52" />
+    <file relUrl="bin/CiBS WebService.dll" publishTime="07/13/2019 14:36:54" />
+    <file relUrl="CiBS.asmx" publishTime="06/25/2010 13:42:12" />
+    <file relUrl="bin/CiBS WebService.pdb" publishTime="07/13/2019 14:36:54" />
+    <file relUrl="bin/CiBS WebService.xml" publishTime="07/13/2019 14:36:54" />
+    <file relUrl="Web.config" publishTime="02/23/2013 22:31:20" />
+    <file relUrl="bin/AyandehPCPosDLL.dll" publishTime="06/21/2015 12:59:50" />
+    <file relUrl="bin/AyandehPCPosDLL.pdb" publishTime="02/09/2015 14:25:16" />
+  </publishProfile>
+</publishData>

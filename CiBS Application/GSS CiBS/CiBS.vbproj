@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2D6C8FF3-38BB-48C6-9AA5-3B91009F6786}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CIBS.My.MyApplication</StartupObject>
+    <RootNamespace>CIBS</RootNamespace>
+    <AssemblyName>CiBS</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>G:\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>https://cib.net/</InstallUrl>
+    <UpdateUrl>http://cib.ab.net/</UpdateUrl>
+    <SupportUrl>http://www.Group.me</SupportUrl>
+    <ProductName>صدور آنی کارت در شعب</ProductName>
+    <PublisherName>Group of International</PublisherName>
+    <SuiteName>GSS Card In Branch Solution %28CiBS%29</SuiteName>
+    <MinimumRequiredVersion>5.0.3.2</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>index.htm</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>5.0.3.2</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CiBS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CiBS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B30CC151D5ED26A19897004B53451D1C64E41D5C</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>AYANDEH BANK CiBS_15_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AyandehPCPosDLL_Async">
+      <HintPath>..\DLL\AyandehPCPosDLL_Async.dll</HintPath>
+    </Reference>
+    <Reference Include="CheckDigit">
+      <HintPath>.\CheckDigit.dll</HintPath>
+    </Reference>
+    <Reference Include="Cryptography">
+      <HintPath>..\..\..\Melli Bank\Melli Bank CiBS - Batch Card Making\Melli Bank CiBS\bin\Debug\Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="GSS_TDES">
+      <HintPath>..\..\..\..\EVOLIS-GSS-TDES (Encryption Module)\GSS_TDES\bin\Release\GSS_TDES.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PersianDate">
+      <HintPath>.\PersianDate.dll</HintPath>
+    </Reference>
+    <Reference Include="PersianToolS, Version=1.0.1523.21031, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Pasargad Bank\Card In Branch\bin\PersianToolS.dll</HintPath>
+    </Reference>
+    <Reference Include="SabteAhvalLibrary">
+      <HintPath>..\..\..\..\Melli Bank\Melli Bank Card In Branch\Melli Bank Card In Branch\bin\Debug\SabteAhvalLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminMessages.Designer.vb">
+      <DependentUpon>AdminMessages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMessages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BrowseImage.designer.vb">
+      <DependentUpon>BrowseImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BrowseImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CardPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CardPrint.Designer.vb">
+      <DependentUpon>CardPrint.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CardPrintRe.Designer.vb">
+      <DependentUpon>CardPrintRe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CardPrintRe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.designer.vb">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CiBS-Parent.Designer.vb">
+      <DependentUpon>CiBS-Parent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CiBS-Parent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNVRTClass.vb" />
+    <Compile Include="CnvShamciToMiladi.vb" />
+    <Compile Include="ConsumablesStack.Designer.vb">
+      <DependentUpon>ConsumablesStack.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsumablesStack.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatePicker.designer.vb">
+      <DependentUpon>DatePicker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatePicker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirectorySearcher.vb" />
+    <Compile Include="GetLastUserInput.vb" />
+    <Compile Include="Guidance.designer.vb">
+      <DependentUpon>Guidance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Guidance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertCustData.Designer.vb">
+      <DependentUpon>InsertCustData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InsertCustData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loader.designer.vb">
+      <DependentUpon>Loader.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loader.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportsCustomer.Designer.vb">
+      <DependentUpon>ReportsCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartReader\Global.vb" />
+    <Compile Include="izzixSCARDFIM.vb" />
+    <Compile Include="PrinterMaintenance.Designer.vb">
+      <DependentUpon>PrinterMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrinterMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataProtection.vb" />
+    <Compile Include="dlliomem.vb" />
+    <Compile Include="InformUnUsableCard.Designer.vb">
+      <DependentUpon>InformUnUsableCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InformUnUsableCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.designer.vb">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="CiBS_Module.vb" />
+    <Compile Include="PrintSetting.Designer.vb">
+      <DependentUpon>PrintSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceptConsumablesRequest.Designer.vb">
+      <DependentUpon>AcceptConsumablesRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AcceptConsumablesRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.vb">
+      <DependentUpon>Reports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reprint.Designer.vb">
+      <DependentUpon>Reprint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reprint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RequestConsumables.Designer.vb">
+      <DependentUpon>RequestConsumables.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RequestConsumables.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartReader\CardCommand .vb" />
+    <Compile Include="SmartReader\SCAPI.vb" />
+    <Compile Include="SmartReader\SCardException.vb" />
+    <Compile Include="SmartReader\SCLibException.vb" />
+    <Compile Include="SmartReader\SCReader.vb" />
+    <Compile Include="SmartReader\SCResMgr.vb" />
+    <Compile Include="SmartReader\SCUtil.vb" />
+    <Compile Include="SmartReader\WinSCard.vb" />
+    <Compile Include="UserManagement.designer.vb">
+      <DependentUpon>UserManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Web References\CiBS_WebService\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminMessages.resx">
+      <DependentUpon>AdminMessages.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrowseImage.resx">
+      <DependentUpon>BrowseImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CardPrint.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CardPrint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CardPrintRe.resx">
+      <DependentUpon>CardPrintRe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CiBS-Parent.resx">
+      <DependentUpon>CiBS-Parent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsumablesStack.resx">
+      <DependentUpon>ConsumablesStack.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatePicker.resx">
+      <DependentUpon>DatePicker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guidance.resx">
+      <DependentUpon>Guidance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertCustData.resx">
+      <DependentUpon>InsertCustData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loader.resx">
+      <DependentUpon>Loader.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrinterMaintenance.resx">
+      <DependentUpon>PrinterMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformUnUsableCard.resx">
+      <DependentUpon>InformUnUsableCard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSetting.resx">
+      <DependentUpon>PrintSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcceptConsumablesRequest.resx">
+      <DependentUpon>AcceptConsumablesRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reprint.resx">
+      <DependentUpon>Reprint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequestConsumables.resx">
+      <DependentUpon>RequestConsumables.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportsCustomer.resx">
+      <DependentUpon>ReportsCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserManagement.resx">
+      <DependentUpon>UserManagement.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AdobeArabic-Bold.otf" />
+    <None Include="DINPro-Medium.otf" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\CiBS_WebService\CiBS.wsdl" />
+    <None Include="Web References\CiBS_WebService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cv110.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="cxcore110.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="iomem.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Varnish.bmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\HANDs.bmp" />
+    <Content Include="highgui110.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="izxSCard32.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="izxSCardFIM32.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Web References\CiBS_WebService\CiBS.disco" />
+    <Content Include="STIC_PBIMAGE.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="STIC_Pebble.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:48917/CiBS.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\CiBS_WebService\</RelPath>
+      <UpdateFromURL>http://localhost:48917/CiBS.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>TAT_BANK_CiBS_CiBS_WebService_CiBS_WebService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CiBS WebService\CiBS WebService\CiBS WebService.vbproj">
+      <Project>{0A5B4EFA-A621-4FD8-8CB7-E279F7069F51}</Project>
+      <Name>CiBS WebService</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

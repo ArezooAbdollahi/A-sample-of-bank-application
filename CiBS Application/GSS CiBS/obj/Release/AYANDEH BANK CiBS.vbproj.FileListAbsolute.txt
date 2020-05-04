@@ -1,0 +1,100 @@
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.exe.config
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\cv110.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\cxcore110.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\GSS-logo.jpg
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\Varnish.bmp
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\highgui110.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\izxSCard32.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\izxSCardFIM32.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\STIC_PBIMAGE.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\STIC_Pebble.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.exe.manifest
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.application
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.exe
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.pdb
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.xml
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\office.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\bin\Release\office.xml
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.AdminMessages.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.BrowseImage.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.CardPrint.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.ChangePassword.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.CiBS_Parent.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.ConsumablesStack.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.Loader.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.PrinterMaintenance.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.InformUnUsableCard.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.LogIn.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.Resources.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.PrintSetting.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.AcceptConsumablesRequest.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.Reports.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.Reprint.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.RequestConsumables.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.UserManagement.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.About.resources
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\ResGen.read.1.tlog
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\ResGen.write.1.tlog
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.TrustInfo.xml
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.exe.manifest
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.application
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.exe
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.xml
+D:\Projects\CardInBranch\AYANDEH BANK\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.pdb
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\cv110.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\cxcore110.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\GSS-logo.jpg
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\Varnish.bmp
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\highgui110.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\izxSCard32.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\izxSCardFIM32.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\STIC_PBIMAGE.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\STIC_Pebble.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.exe.config
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.exe.manifest
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.application
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.exe
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.pdb
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\AYANDEH BANK CiBS.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\office.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\Microsoft.Vbe.Interop.dll
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\bin\Release\office.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\ResolveAssemblyReference.cache
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.AdminMessages.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.BrowseImage.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.CardPrint.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.ChangePassword.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.CiBS_Parent.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.ConsumablesStack.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.Loader.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.PrinterMaintenance.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.InformUnUsableCard.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.LogIn.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.Resources.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.PrintSetting.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.AcceptConsumablesRequest.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.Reports.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.Reprint.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.RequestConsumables.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.UserManagement.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEGBANKCIBS.About.resources
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\ResGen.read.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\ResGen.write.1.tlog
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.TrustInfo.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.exe.manifest
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.application
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.exe
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.xml
+D:\My_Projects\GSS_Applications\Card_In_Branch\AYANDEH BANK CiBS\CiBS Application\GSS CiBS\obj\Release\AYANDEH BANK CiBS.pdb
